@@ -41,7 +41,7 @@
     ],
     "dependencies": {
        "mjsunit.runner": ">=0.1.0",
-       "jsdom": ">=0.1.21",
+       "jsdom": "https://github.com/jasonmorrissey/jsdom/tarball/master",
        "htmlparser": ">=1.7.3"
     },
     "engines" : { "node" : ">=0.2.5" },
